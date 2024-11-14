@@ -10,10 +10,13 @@ I'm Théo Husson, a French Data Scientist. I have a deep interest for Machine Le
 
 ## 🖥️ Libraries for Data Analysis
 <a href="https://pandas.pydata.org/">
-    <img
-        src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
-        align="left"
-        width="21px">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+<a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
+<a href="https://scipy.org/">
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 </a>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
