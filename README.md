@@ -9,6 +9,12 @@ I'm Théo Husson, a French Data Scientist. I have a deep interest for Machine Le
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🖥️ Libraries for Data Analysis
+<a href="https://pandas.pydata.org/">
+    <img
+        src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+        align="left"
+        width="21px">
+</a>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -36,7 +42,7 @@ I'm Théo Husson, a French Data Scientist. I have a deep interest for Machine Le
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/theo-husson/">
     <img
-        src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg"
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
         align="left"
         alt="icon | LinkedIn"
         width="21px">
