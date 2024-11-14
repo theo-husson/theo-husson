@@ -34,4 +34,10 @@ I'm Théo Husson, a French Data Scientist. I have a deep interest for Machine Le
 
 
 ## 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/theo-husson/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width="21px"/></a>
+<a href="https://www.linkedin.com/in/theo-husson/">
+    <img
+        src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg"
+        align="left"
+        alt="icon | LinkedIn"
+        width="21px">
+</a>
